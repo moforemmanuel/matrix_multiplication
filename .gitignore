@@ -1,0 +1,15 @@
+#ignore
+#all log files
+*.log
+
+#all temporary files
+*.temp
+
+#all executable files
+*.exe 
+
+#all object files
+*.o 
+
+#all dev files
+*.dev
